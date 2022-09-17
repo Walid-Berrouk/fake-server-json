@@ -1,4 +1,5 @@
-[
+{
+    "profiles": [
     {
         "id": 0,
         "firstName": "Walid",
@@ -42,3 +43,4 @@
         "age": 19
     }
 ]
+}
