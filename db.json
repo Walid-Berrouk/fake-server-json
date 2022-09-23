@@ -93,7 +93,9 @@
                 "lastname": "Star",
                 "job": "Web Developer",
                 "age": 24,
-                "codeName": "Alkalan"
+                "codeName": "Alkalan",
+                "email": "jeph-star@gmail.com",
+                "password": "kal45"
             },
             {
                 "id": 1,
@@ -101,7 +103,9 @@
                 "lastname": "Berrouk",
                 "job": "GoMyCode Instructor",
                 "age": 24,
-                "codeName": "Rivench"
+                "codeName": "Rivench",
+                "email": "wharrywalid@gmail.com",
+                "password": "not78"
             },
             {
                 "id": 2,
@@ -109,7 +113,9 @@
                 "lastname": "Moussaoui",
                 "job": "GoMyCode Instructor",
                 "age": 24,
-                "codeName": "Lancelot"
+                "codeName": "Lancelot",
+                "email": "akram-ln@gmail.com",
+                "password": "5hjk5"
             },
             {
                 "id": 3,
@@ -117,7 +123,9 @@
                 "lastname": "Atia",
                 "job": "GoMyCode Manager",
                 "age": 27,
-                "codeName": "Mahanja"
+                "codeName": "Mahanja",
+                "email": "norhane-atia@gmail.com",
+                "password": "kolp09"
             }
         ]
     },
