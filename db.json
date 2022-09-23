@@ -28,61 +28,71 @@
             "id": 0,
             "author": "Jeph Star",
             "author_id": 0,
-            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!"
+            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!",
+            "time": "9 min"
         },
         {
             "id": 1,
             "author": "Walid Berrouk",
             "author_id": 1,
-            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!"
+            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!",
+            "time": "15 min"
         },
         {
             "id": 2,
             "author": "Akram Moussaoui",
             "author_id": 2,
-            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!"
+            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!",
+            "time": "27 min"
         },
         {
             "id": 3,
             "author": "Akram Moussaoui",
             "author_id": 2,
-            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!"
+            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!",
+            "time": "1 h"
         },
         {
             "id": 4,
             "author": "Akram Moussaoui",
             "author_id": 2,
-            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!"
+            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!",
+            "time": "2 h"
         },
         {
             "id": 5,
             "author": "Jeph Star",
             "author_id": 0,
-            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!"
+            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!",
+            "time": "2 days"
         },
         {
             "id": 6,
             "author": "Jeph Star",
             "author_id": 0,
-            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!"
+            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!",
+            "time": "3 weeks"
         },
         {
             "id": 7,
             "author": "Walid Berrouk",
             "author_id": 1,
-            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!"
+            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!",
+            "time": "5 weeks"
         },
         {
             "id": 8,
             "author": "Norhane Atia",
             "author_id": 3,
-            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!"
+            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!",
+            "time": "9 weeks"
         },
         {
             "id": 9,
             "author": "Aaron Nerox",
             "author_id": 4,
-            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!"
+            "content" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus ex deleniti quia! Dolorem, pariatur. Itaque ipsum dicta dolorum, eum sed beatae, ducimus debitis quia, ipsa hic iure velit quae possimus perferendis recusandae at atque ut corrupti cum blanditiis incidunt!",
+            "time": "2 months"
         }
     ],
     "profiles":[
