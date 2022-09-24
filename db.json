@@ -135,6 +135,16 @@
             "codeName": "Mahanja",
             "email": "norhane-atia@gmail.com",
             "password": "kolp09"
+        },
+        {
+            "id": 3,
+            "firstname": "Aaron",
+            "lastname": "Nerox",
+            "job": "GoMyCode Instructor",
+            "age": 23,
+            "codeName": "Aaron",
+            "email": "aaron@gmail.com",
+            "password": "kolp67"
         }
     ],
     "test": [
